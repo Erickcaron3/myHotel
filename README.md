@@ -8,6 +8,7 @@ Project in development for a personal usage.
 Java, Spring Boot, Spring Cloud, Eureka, Hibernate.  
 Database: PostgreSQL.  
 To be implemented: RabbitMQ, JavaMail.  
+Frontend to be implemented on independant application via React/HTML/CSS
 
 # Endpoints
 
