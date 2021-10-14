@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gateway/Gateway-Service.iml" filepath="$PROJECT_DIR$/gateway/Gateway-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KarkonoskiApartamentAPI/KarkonoskiApartamentAPI.iml" filepath="$PROJECT_DIR$/KarkonoskiApartamentAPI/KarkonoskiApartamentAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apartment-application/apartment-application.iml" filepath="$PROJECT_DIR$/apartment-application/apartment-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer-application/customer-application.iml" filepath="$PROJECT_DIR$/customer-application/customer-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myHotel.iml" filepath="$PROJECT_DIR$/.idea/myHotel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reservation-application/reservation-application.iml" filepath="$PROJECT_DIR$/reservation-application/reservation-application.iml" />
+    </modules>
+  </component>
+</project>

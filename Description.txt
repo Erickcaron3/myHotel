@@ -1,0 +1,6 @@
+Discovery server: 9500
+Gateway: 9000
+apart (beds included): 8020
+Customer: 8030
+Reservation: 8040
+postgres: 5342

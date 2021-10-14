@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Gateway-Service" />
+        <module name="customer-application" />
+        <module name="apartment-application" />
+        <module name="KarkonoskiApartamentAPI" />
+        <module name="reservation-application" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apartment-application" target="1.5" />
+      <module name="customer-application" target="1.5" />
+      <module name="Gateway-Service" target="1.5" />
+      <module name="KarkonoskiApartamentAPI" target="1.5" />
+      <module name="reservation-application" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
