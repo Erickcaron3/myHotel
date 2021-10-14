@@ -5,7 +5,7 @@ Project in development for a personal usage.
 
 # Technologies
 
-Java, Spring Boot, Spring Cloud, Hibernate.  
+Java, Spring Boot, Spring Cloud, Eureka, Hibernate.  
 Database: PostgreSQL.  
 To be implemented: RabbitMQ, JavaMail.  
 
